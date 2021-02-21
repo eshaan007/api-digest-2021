@@ -7,6 +7,8 @@ import logo from "../img/logo.svg";
 import { fetchSearch } from "../actions/gamesAction";
 import { useDispatch } from "react-redux";
 
+import {fadeIn} from '../animations';
+
 const Nav = () => {
   const dispatch = useDispatch();
   const [textInput, setTextInput] = useState("");
@@ -26,7 +28,7 @@ const Nav = () => {
   };
   
   return (
-    <StyledNav>
+    <StyledNav variants = {fadeIn} initial='hidden' animate="show">
       <Logo onClick={clearSearched}>
         <img src={logo} alt="logo" />
         <h1>Inferno</h1>
@@ -50,15 +52,16 @@ const StyledNav = styled(motion.nav)`
     padding: 0.5rem;
     border: none;
     margin-top: 1rem;
-    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 30px rgb(0,0,0,0.2);
   }
   button {
     font-size: 1.5rem;
     border: none;
     padding: 0.5rem 2rem;
     cursor: pointer;
-    background: #ff7676;
+    background: #00003f;
     color: white;
+    /* font-family : inherit; */
   }
 `;
 
