@@ -8,10 +8,7 @@
 - Beautified using Styled Components and Animated using <a href="https://www.framer.com/api/motion/">Framer Motion API</a>.
 - Deployed The Website on Vercel ➡ https://inferno-nu.vercel.app/
 
-
-###                                                           A sneek peak 😉<br/>
 ![Untitled_ Feb 21, 2021 11_56 PM](https://user-images.githubusercontent.com/48882133/108635207-3b1ac200-74a4-11eb-9f89-b7daeee36b3d.gif)
-<br/>
 
 ### Installation Guide
 
