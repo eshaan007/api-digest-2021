@@ -44,3 +44,8 @@ npm start
 ## Also we have got a pretty decent performance after loading some huge pictures ! <br/>
 ![Screenshot (222)](https://user-images.githubusercontent.com/48882133/108635189-145c8b80-74a4-11eb-805d-2d01649357a3.png)
 
+
+---
+<p align="center"> Made with ❤️ by <a href="https://eshaankhurana.com">Eshaan Khurana</a> and <a href="https://github.com/kavyatripathi">Kavya Tripathi</a> </p>
+
+
