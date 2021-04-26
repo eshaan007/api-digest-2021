@@ -6,7 +6,6 @@
 - Developed this Web-App to gather Ratings, Reviews and the Glimpses of the Game the users would be about to buy. 
 - Used ReactJS and Redux and Called in the Data from <a href="https://rawg.io/apidocs/">RAWG API</a>. 
 - Beautified using Styled Components and Animated using <a href="https://www.framer.com/api/motion/">Framer Motion API</a>.
-- Deployed The Website on Vercel ➡ https://inferno-nu.vercel.app/
 
 ### Installation Guide
 
